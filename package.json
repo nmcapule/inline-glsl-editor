@@ -4,7 +4,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --public-url ./"
   },
   "repository": "https://github.com/nmcapule/inline-glsl-editor",
   "author": "Nathaniel M. Capule <llss.s.sls.lll@gmail.com>",
