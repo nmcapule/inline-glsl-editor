@@ -1,0 +1,19 @@
+{
+  "name": "inline-glsl-editor",
+  "version": "0.0.1",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": "https://github.com/nmcapule/inline-glsl-editor",
+  "author": "Nathaniel M. Capule <llss.s.sls.lll@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "glslCanvas": "^0.2.6",
+    "lit": "^3.1.4"
+  }
+}
